@@ -1,4 +1,5 @@
 <div align="center">
+  <img src=".github/banner.png" alt="TicketSlayer AI Banner" width="100%" style="border-radius: 8px; margin-bottom: 20px;">
 
 # ⚔️ TicketSlayer AI
 
