@@ -3,6 +3,7 @@
 
 # ⚔️ TicketSlayer AI
 
+[![CI Pipeline](https://github.com/rahulagarwal18/TicketSlayerAI/actions/workflows/ci.yml/badge.svg)](https://github.com/rahulagarwal18/TicketSlayerAI/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Llama-3](https://img.shields.io/badge/AI-Llama--3-orange.svg?style=for-the-badge&logo=meta&logoColor=white)](https://groq.com)
 [![Slack API](https://img.shields.io/badge/Slack-Bolt-E01E5A.svg?style=for-the-badge&logo=slack&logoColor=white)](https://api.slack.com)
