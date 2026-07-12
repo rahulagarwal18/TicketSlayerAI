@@ -47,6 +47,21 @@ sequenceDiagram
     App->>Slack: "✅ Ticket created! [URL]"
 ```
 
+## System Architecture
+
+```mermaid
+graph TD
+    A[User / Customer] -->|Creates Ticket| B(Ticket System)
+    B --> C{TicketSlayer AI Agent}
+    C -->|Uses Llama-3| D[Reasoning Engine]
+    D --> E[Knowledge Base Retrieval]
+    D --> F[Code Analysis Tool]
+    D --> G[Action Execution]
+    G -->|Posts Reply / Resolves| B
+    E -.-> D
+    F -.-> D
+```
+
 ---
 
 ## 📦 Installation & Setup
